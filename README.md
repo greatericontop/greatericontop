@@ -4,6 +4,8 @@ my fingers press buttons and produce garbage
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=greatericontop&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=greatericontop&title=Commits)](https://github.com/ryo-ma/github-profile-trophy)
+
 im competent in python, java, c++
 
 discord: greateric#1337 (my nitro dies soon HELP)
